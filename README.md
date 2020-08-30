@@ -6,3 +6,6 @@ dataset link-https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
 I have made flask app and html/css UI and deployed it in Heroku cloud.
 
 App link-https://car-sellprice-pred.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/62827309/91663815-da1fbc00-eb08-11ea-94cb-72da426639a7.png)
+
